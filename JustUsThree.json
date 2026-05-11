@@ -4,5 +4,14 @@
   "artist": "",
   "author": "MidnightPings",
   "cover": "https://i.redd.it/3gb54zunba0h1.jpeg",
-  "chapters": {}
+  "chapters": {
+    "8": {
+      "title": "Chapter 8",
+      "volume": "",
+      "last_updated": "1778537599",
+      "groups": {
+        "": "proxy/api/imgchest/chapter/agyvgaz2ky8"
+      }
+    }
+  }
 }
