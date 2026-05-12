@@ -4,5 +4,14 @@
   "artist": "",
   "author": "Needful",
   "cover": "https://i.redd.it/6lw1dxv6jzzg1.jpeg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1778599589",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvl8aw978"
+      }
+    }
+  }
 }
