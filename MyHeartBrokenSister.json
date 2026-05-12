@@ -4,5 +4,86 @@
   "artist": "",
   "author": "Nightwell Stories",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1778620019",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4j6ljb5y8"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1778620039",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4n6plg57n"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1778620080",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45nwb9g45"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1778620097",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7l6epxp7x"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1778620117",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyewjldkyd"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1778620142",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24adpk3g4l"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1778620157",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8rxkap4b"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1778620173",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7odjqe9yp"
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1778619975",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45jmnpxy5"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "",
+      "last_updated": "1778619985",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zlmded7j"
+      }
+    }
+  }
 }
