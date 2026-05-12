@@ -1,0 +1,65 @@
+{
+  "title": "One Man, Two Birds",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1778622380",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zrg6md7j"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1778622470",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8rz8l24b"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1778622493",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7ll28xx7x"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1778622505",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx553em7q"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1778622514",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg732neno4r"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1778622525",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7ldkpdoyx"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1778622533",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyeola8x4d"
+      }
+    }
+  }
+}
