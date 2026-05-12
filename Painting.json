@@ -1,0 +1,25 @@
+{
+  "title": "Painting My Sister",
+  "description": "",
+  "artist": "",
+  "author": "HiddenChats",
+  "cover": "https://i.redd.it/l5q9pd2u6k0h1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1778621961",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7brr36jy5"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1778621975",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mjj6697d"
+      }
+    }
+  }
+}
