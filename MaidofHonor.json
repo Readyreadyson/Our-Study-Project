@@ -4,5 +4,62 @@
   "artist": "",
   "author": "JardinSecret",
   "cover": "https://i.redd.it/v5c0ppt7g61h1.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Bad Introductions",
+      "volume": "",
+      "last_updated": "1778854926",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqkwxjdy2"
+      }
+    },
+    "2": {
+      "title": "Pregaming",
+      "volume": "",
+      "last_updated": "1778854952",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wqepvx7x"
+      }
+    },
+    "3": {
+      "title": "Drunk in the Hotel Room",
+      "volume": "",
+      "last_updated": "1778854964",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg736ob237r"
+      }
+    },
+    "4": {
+      "title": "Rehearsal Dinner",
+      "volume": "",
+      "last_updated": "1778854982",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg736x3qo7r"
+      }
+    },
+    "5": {
+      "title": "Showering and Planning",
+      "volume": "",
+      "last_updated": "1778855003",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wjzjnb4x"
+      }
+    },
+    "6": {
+      "title": "One Last Time",
+      "volume": "",
+      "last_updated": "1778855014",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a84695xgo4x"
+      }
+    },
+    "7": {
+      "title": "Wedding Day",
+      "volume": "",
+      "last_updated": "1778855031",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7knnwbk78"
+      }
+    }
+  }
 }
