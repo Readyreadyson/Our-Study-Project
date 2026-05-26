@@ -1,5 +1,5 @@
 {
-  "title": "Just Us Three",
+  "title": "Just the Three of Us",
   "description": "",
   "artist": "",
   "author": "MidnightPings",
@@ -99,6 +99,14 @@
       "last_updated": "1779433947",
       "groups": {
         "": "/proxy/api/imgchest/chapter/9p4nm238wyn"
+      }
+    },
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1779810213",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny88ogapyb"
       }
     }
   }
