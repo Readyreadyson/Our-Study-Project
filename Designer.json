@@ -1,0 +1,33 @@
+{
+  "title": "I'm a Designer",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/fz6olbm60w4h1.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1780479323",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrnoexe7p"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1780479335",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zpzxl5yj"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1780479343",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2okekz4l"
+      }
+    }
+  }
+}
