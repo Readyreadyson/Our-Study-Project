@@ -1,0 +1,41 @@
+{
+  "title": "Pregnant and Neglected ",
+  "description": "",
+  "artist": "",
+  "author": "Really Bad at Life",
+  "cover": "https://i.redd.it/amdfbyrpsn6h1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1781525182",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24aonkqdyl"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1781525197",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87w223vq7x"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1781525208",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyeox5zm4d"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1781525219",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrbgpxe7p"
+      }
+    }
+  }
+}
