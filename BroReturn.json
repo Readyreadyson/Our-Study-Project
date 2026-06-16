@@ -1,0 +1,41 @@
+{
+  "title": "My Brothers Return",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/s624i354h17h1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1781650184",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o3kmx97p"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1781650204",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jjzl9e48"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1781650214",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4na3qw5yn"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1781650225",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45rmmnq75"
+      }
+    }
+  }
+}
