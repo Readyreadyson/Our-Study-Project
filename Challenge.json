@@ -1,0 +1,33 @@
+{
+  "title": "A Challenge with Friends",
+  "description": "",
+  "artist": "",
+  "author": "AFewDirtyKinks",
+  "cover": "https://i.redd.it/k1lrvnryyv7h1.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1 - 9",
+      "volume": "",
+      "last_updated": "1781789249",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45xqjk275"
+      }
+    },
+    "2": {
+      "title": "10 - 17",
+      "volume": "",
+      "last_updated": "1781789273",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrgawnx4p"
+      }
+    },
+    "3": {
+      "title": "18 - FINALE",
+      "volume": "",
+      "last_updated": "1781789293",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9rydddrmlyk"
+      }
+    }
+  }
+}
