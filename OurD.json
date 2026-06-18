@@ -1,0 +1,49 @@
+{
+  "title": "Our Daughter is Doing What?",
+  "description": "",
+  "artist": "",
+  "author": "AdventurousStories",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1781822067",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4nm2gmbyn"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1781822081",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvar6lky8"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1781822087",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/924952ee2yn"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1781822099",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/dl7pwlqgjyo"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1781822111",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73q96xz4r"
+      }
+    }
+  }
+}
