@@ -1,0 +1,81 @@
+{
+  "title": "Mom is Running the Farm Now",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/m611ck1xx99h1.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1782552711",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qb4zm269lyj"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1782552737",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/o24aneadg7l"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1782552752",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp456blgv75"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1782552766",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvjkw6ky8"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1782552793",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/md7o5n6l94p"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1782552813",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/vj4jnx8z278"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1782552828",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7k53aew78"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "",
+      "last_updated": "1782552847",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2nwvozyl"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "",
+      "last_updated": "1782552861",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7b3wgbgy5"
+      }
+    }
+  }
+}
