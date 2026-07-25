@@ -1,0 +1,25 @@
+{
+  "title": "Figure Study (with my Aunt)",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/ntsnrrj29neh1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1785015332",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87w2ar5g7x"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1785015386",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/a846mlzov7x"
+      }
+    }
+  }
+}
