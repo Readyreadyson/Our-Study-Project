@@ -1,0 +1,25 @@
+{
+  "title": "Let's Play a Game?",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/bkfrnkk1gtlh1.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1787866625",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqye5jl2myd"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1787866640",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/na7klz5wby8"
+      }
+    }
+  }
+}
