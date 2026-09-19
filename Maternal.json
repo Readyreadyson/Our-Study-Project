@@ -1,0 +1,25 @@
+{
+  "title": "Maternal Instincts",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/elgywsnb8yoh1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1789803824",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ljyqo35an42"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1789803830",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mod92n4d"
+      }
+    }
+  }
+}
