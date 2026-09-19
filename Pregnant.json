@@ -132,6 +132,38 @@
       "groups": {
         "": "/proxy/api/imgchest/chapter/ej7mppwva7d"
       }
+    },
+    "17": {
+      "title": "17",
+      "volume": "",
+      "last_updated": "1789803647",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87wpwzm34x"
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "",
+      "last_updated": "1789803654",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bzvm5j75"
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "",
+      "last_updated": "1789803665",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2v8mb37l"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "",
+      "last_updated": "1789803677",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy2vmvv97l"
+      }
     }
   }
 }
