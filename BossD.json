@@ -6,7 +6,7 @@
   "cover": "https://i.redd.it/t7elcdiyp4qh1.jpeg",
   "chapters": {
     "1": {
-      "title": "1 - 8",
+      "title": "Part 1: 1 - 8",
       "volume": "",
       "last_updated": "1789803519",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "9 - 15",
+      "title": "Part 1: 9 - 15",
       "volume": "",
       "last_updated": "1789803537",
       "groups": {
@@ -22,11 +22,19 @@
       }
     },
     "3": {
-      "title": "16 - 22",
+      "title": "Part 1: 16 - 22",
       "volume": "",
       "last_updated": "1790115140",
       "groups": {
         "": "/proxy/api/imgchest/chapter/pg73najvv4r"
+      }
+    },
+    "4": {
+      "title": "Part 2: 1 - 9",
+      "volume": "",
+      "last_updated": "1790115219",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ej7mxqjga4d"
       }
     }
   }
