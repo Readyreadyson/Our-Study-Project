@@ -1,0 +1,65 @@
+{
+  "title": "Educating the Bro",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://i.redd.it/igni5g9pk8rh1.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1790200601",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy22b253yl"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1790200617",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/92493wola4n"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1790200628",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/m9yx3qnpkyq"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1790200636",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrl3vgxyp"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1790200648",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/pg73lzklj7r"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1790200661",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/92492dmpvyn"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "",
+      "last_updated": "1790200673",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/n87w9qqjxyx"
+      }
+    }
+  }
+}
